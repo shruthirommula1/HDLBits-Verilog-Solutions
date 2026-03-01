@@ -17,3 +17,9 @@ Create a module that implements a AND gate.
 <img width="1386" height="833" alt="image" src="https://github.com/user-attachments/assets/d775a9dc-1991-4d96-b68e-236419105212" />
 <img width="1270" height="635" alt="image" src="https://github.com/user-attachments/assets/14296753-09ed-421d-a717-2de1c64224da" />
 ----------------------------------------------------------------------------------------------------------------------------------------
+Create a module that implements a Nor gate.
+<img width="1446" height="755" alt="image" src="https://github.com/user-attachments/assets/c1b26b92-7ab6-4464-a3ff-a1f1628dae22" />
+<img width="1370" height="890" alt="image" src="https://github.com/user-attachments/assets/8326c36c-439c-4e0e-85a6-2b99ea2fdde8" />
+<img width="1276" height="595" alt="image" src="https://github.com/user-attachments/assets/669b5fec-5ee4-4b4c-afe5-bf8a5057a24d" />
+----------------------------------------------------------------------------------------------------------------------------------------
+
