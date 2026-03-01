@@ -31,6 +31,8 @@ Declaring wires
 <img width="1373" height="744" alt="image" src="https://github.com/user-attachments/assets/1fc40317-dbf5-4b72-8153-b5cef2b21a8f" />
 <img width="1390" height="792" alt="image" src="https://github.com/user-attachments/assets/f7e97edc-2745-4e56-919e-9b2374e91903" />
 <img width="1392" height="797" alt="image" src="https://github.com/user-attachments/assets/d1f44107-55a7-40eb-9358-b9ea5f8738d6" />
+<img width="1299" height="788" alt="image" src="https://github.com/user-attachments/assets/baf41f61-f167-40cb-b15e-b76e823d5b1c" />
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
