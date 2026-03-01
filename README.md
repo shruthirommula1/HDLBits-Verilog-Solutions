@@ -22,4 +22,8 @@ Create a module that implements a Nor gate.
 <img width="1370" height="890" alt="image" src="https://github.com/user-attachments/assets/8326c36c-439c-4e0e-85a6-2b99ea2fdde8" />
 <img width="1276" height="595" alt="image" src="https://github.com/user-attachments/assets/669b5fec-5ee4-4b4c-afe5-bf8a5057a24d" />
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+Create a module that implements a XNor gate.
+<img width="1360" height="655" alt="image" src="https://github.com/user-attachments/assets/2f8c6880-078f-49a7-b344-cc12e5fd1810" />
+<img width="1285" height="542" alt="image" src="https://github.com/user-attachments/assets/c7dfa5b3-5b72-4abb-9511-c9066fa674d5" />
+<img width="1278" height="601" alt="image" src="https://github.com/user-attachments/assets/219228be-650b-4a3e-a76b-d1cfc255b212" />
+----------------------------------------------------------------------------------------------------------------------------------------
