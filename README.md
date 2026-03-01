@@ -13,3 +13,7 @@ Create a module that implements a NOT gate.
 <img width="1382" height="776" alt="image" src="https://github.com/user-attachments/assets/93eeecdd-716b-473a-ae55-b9a79cce3317" />
 <img width="1284" height="559" alt="image" src="https://github.com/user-attachments/assets/ff0463aa-4547-46ab-af64-06d154d89b0e" />
 ----------------------------------------------------------------------------------------------------------------------------------------
+Create a module that implements a AND gate.
+<img width="1386" height="833" alt="image" src="https://github.com/user-attachments/assets/d775a9dc-1991-4d96-b68e-236419105212" />
+<img width="1270" height="635" alt="image" src="https://github.com/user-attachments/assets/14296753-09ed-421d-a717-2de1c64224da" />
+----------------------------------------------------------------------------------------------------------------------------------------
