@@ -27,3 +27,11 @@ Create a module that implements a XNor gate.
 <img width="1285" height="542" alt="image" src="https://github.com/user-attachments/assets/c7dfa5b3-5b72-4abb-9511-c9066fa674d5" />
 <img width="1278" height="601" alt="image" src="https://github.com/user-attachments/assets/219228be-650b-4a3e-a76b-d1cfc255b212" />
 ----------------------------------------------------------------------------------------------------------------------------------------
+Declaring wires
+<img width="1373" height="744" alt="image" src="https://github.com/user-attachments/assets/1fc40317-dbf5-4b72-8153-b5cef2b21a8f" />
+<img width="1390" height="792" alt="image" src="https://github.com/user-attachments/assets/f7e97edc-2745-4e56-919e-9b2374e91903" />
+<img width="1392" height="797" alt="image" src="https://github.com/user-attachments/assets/d1f44107-55a7-40eb-9358-b9ea5f8738d6" />
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
