@@ -1,0 +1,3 @@
+module top_modeule( input in, ouput out);
+      assign out=~in;
+endmodule
