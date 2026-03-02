@@ -56,3 +56,8 @@ vectorgates
 <img width="1099" height="941" alt="image" src="https://github.com/user-attachments/assets/f27b776d-522d-410d-9b58-536bb4730570" />
 <img width="1002" height="522" alt="image" src="https://github.com/user-attachments/assets/eb681798-8c10-4979-b020-ee30e2852926" />
 ----------------------------------------------------------------------------------------------------------------------------------------
+combinational circuit with four inputs, in[3:0].
+<img width="1080" height="597" alt="image" src="https://github.com/user-attachments/assets/da3ed279-deb6-473e-96fd-eb3a5e53f03c" />
+<img width="1573" height="887" alt="image" src="https://github.com/user-attachments/assets/eeb69c70-7f5a-4ec2-b052-1f2f6d54a434" />
+----------------------------------------------------------------------------------------------------------------------------------------
+
