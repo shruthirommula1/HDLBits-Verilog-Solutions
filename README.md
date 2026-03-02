@@ -38,5 +38,10 @@ Declaring wires
 <img width="943" height="914" alt="image" src="https://github.com/user-attachments/assets/a6b88cb1-9096-44f9-b368-88fc99a12fea" />
 <img width="1353" height="946" alt="image" src="https://github.com/user-attachments/assets/a0262890-899c-431c-b011-bf5e2502be7a" />
 ----------------------------------------------------------------------------------------------------------------------------------------
+Vector0
+<img width="1058" height="969" alt="image" src="https://github.com/user-attachments/assets/cb92a509-6981-4d72-ab27-53e79e313c22" />
+<img width="577" height="403" alt="image" src="https://github.com/user-attachments/assets/c19c34c2-0b51-4c64-9990-93474fb86e76" />
+<img width="1405" height="793" alt="image" src="https://github.com/user-attachments/assets/f959a9eb-39ea-476b-a79f-377c45a4311f" />
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
